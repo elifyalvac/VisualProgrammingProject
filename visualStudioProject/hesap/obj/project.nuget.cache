@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MwBgCjYPtTJSisrrv1RJgQhN0l/UXocCK60v9EQmnuhL6KOxEB3TzqCMzYgVf5vJjpvsBU23NyfRDuMgZkzWxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elify\\source\\repos\\hesap\\hesap.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elify\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\elify\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

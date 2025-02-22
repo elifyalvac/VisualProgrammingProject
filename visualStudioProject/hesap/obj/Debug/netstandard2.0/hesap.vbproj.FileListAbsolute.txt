@@ -1,0 +1,9 @@
+C:\Users\elify\source\repos\hesap\bin\Debug\netstandard2.0\hesap.deps.json
+C:\Users\elify\source\repos\hesap\bin\Debug\netstandard2.0\hesap.dll
+C:\Users\elify\source\repos\hesap\bin\Debug\netstandard2.0\hesap.pdb
+C:\Users\elify\source\repos\hesap\obj\Debug\netstandard2.0\hesap.vbprojAssemblyReference.cache
+C:\Users\elify\source\repos\hesap\obj\Debug\netstandard2.0\hesap.AssemblyInfoInputs.cache
+C:\Users\elify\source\repos\hesap\obj\Debug\netstandard2.0\hesap.AssemblyInfo.vb
+C:\Users\elify\source\repos\hesap\obj\Debug\netstandard2.0\hesap.vbproj.CoreCompileInputs.cache
+C:\Users\elify\source\repos\hesap\obj\Debug\netstandard2.0\hesap.dll
+C:\Users\elify\source\repos\hesap\obj\Debug\netstandard2.0\hesap.pdb
